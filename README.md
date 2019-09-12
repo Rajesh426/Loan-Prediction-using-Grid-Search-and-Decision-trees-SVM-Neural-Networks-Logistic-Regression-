@@ -8,7 +8,7 @@ Hyperparameter tuning is done with the help og grid search for all algorithms <b
 
 # Following Steps are performed on data <br>
 
-# Target Label is loan_status <br>
+# Target Label is "loan_status" <br>
 
 ## Cleaning <br>
 Most of the data cleaning is performed by removing the coloumns with 3/4 of the size of the rows are NaNs<br>
