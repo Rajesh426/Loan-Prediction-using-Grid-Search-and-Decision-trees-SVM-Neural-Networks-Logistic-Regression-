@@ -1,7 +1,7 @@
 # Loan-Prediction-using-Grid-Search-and-Decision-trees-SVM-Neural-Networks-Logistic-Regression-
 Predicting Loan on a realtime data using Most famous Machine Learning Algorithms [ Logistic Regression, K Nearest Neighbour, Random Forest SVM and Neural networks ] 
 Its a Ipython file implemented for classification problem <br>
-##Here actual loan data is store in the New folder zip file <br>
+## Here actual loan data is store in the New folder zip file but a sample is also updated in the loan.csv file which is less than 25MB <br>
 # Hyperparameters tuning <br>
 
 Hyperparameter tuning is done with the help og grid search for all algorithms <br>
