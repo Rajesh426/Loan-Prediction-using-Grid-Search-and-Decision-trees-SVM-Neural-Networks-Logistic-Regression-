@@ -17,7 +17,7 @@ Most of the data cleaning is performed by removing the coloumns with 3/4 of the 
 String data type is converted into numeric values with using the map and lambda function in python  <br>
 
 ## Data Analysis <br>
-Data Analysing is perfomred by Correlationship between the features and the target <br>
+Data Analysing is perfomred by Correlation between the features and the target <br>
 
 ## Modeling <br>
 ### Four Classical Machine algorithms are implemented <br>
