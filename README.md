@@ -6,7 +6,7 @@ Its a Ipython file implemented for classification problem <br>
 ### Dictionary csv file is also added which will have the all abrivations for the columns <br>
 # Hyperparameters tuning <br>
 
-Hyperparameter tuning is done with the help og grid search for all algorithms <br>
+Hyperparameter tuning is done with the help of grid search for all algorithms <br>
 
 # Following Steps are performed on data <br>
 
