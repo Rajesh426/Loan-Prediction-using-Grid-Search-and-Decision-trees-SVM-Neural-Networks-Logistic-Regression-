@@ -3,7 +3,7 @@ Predicting Loan on a realtime data using Most famous Machine Learning Algorithms
 Its a Ipython file implemented for classification problem <br>
 #### "OwnFun_Normalization_All_Numeric_Features_Parameters_Grid_Loan_PredictionV2.ipynb" is the ipython file 
 ## Here actual loan data is store in the New folder zip file but a sample is also updated in the loan.csv file which is less than 25MB <br>
-### Dictionary csv file is also added which will have the all abrivations for the columns <br>
+### Dictionary csv file is also added which will have the all abbreviations for the columns <br>
 # Hyperparameters tuning <br>
 
 Hyperparameter tuning is done with the help of grid search for all algorithms <br>
